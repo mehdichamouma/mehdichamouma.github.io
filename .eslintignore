@@ -1,0 +1,8 @@
+out/*
+.editorconfig
+.idea
+.next
+.vscode
+lang/.messages
+node_modules
+package-lock.json
