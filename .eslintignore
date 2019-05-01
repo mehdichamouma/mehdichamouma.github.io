@@ -1,4 +1,5 @@
 out/*
+docs/*
 .editorconfig
 .idea
 .next
